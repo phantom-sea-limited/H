@@ -11,6 +11,6 @@
 [main](https://mihoyo.tk)| 主站|  正常
 [pic](https://pic.mihoyo.tk)| 图床|  未开放
 [site](https://site.mihoyo.tk)|检测点|  正常
-[变百-魔法少女奈叶之双子物语](https://h.sirin.xyz/1.txt)|txt|  2020.1.9
+[变百-魔法少女奈叶之双子物语](https://h.sirin.xyz/0.txt)|txt|  2020.1.9
 
 
