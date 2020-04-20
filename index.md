@@ -5,11 +5,11 @@
 {% endhint %}
 
 {% hint style="info" %}
-\*\*\*\*[**前传：黑历史**](book-1/ac.md)**（未完）**
+[**前传：黑历史**](book-1/ac.md)**（未完）**
 {% endhint %}
 
 {% hint style="info" %}
-\*\*\*\*[**设定集**](hg/index.md)\*\*\*\*
+[**设定集**](hg/index.md)
 {% endhint %}
 
 {% hint style="danger" %}
