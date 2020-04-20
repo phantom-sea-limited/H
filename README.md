@@ -11,7 +11,7 @@
 
 **文库报告：已收集10,664**
 
-**推荐收藏本站：**[**https://www.phantom-sea-limited.ltd/**](https://www.phantom-sea-limited.ltd/)\*\*\*\*
+**推荐收藏本站：**[**https://www.phantom-sea-limited.ltd/**](https://www.phantom-sea-limited.ltd/)
 
 **以前的链接不会失效**
 {% endhint %}
