@@ -1,16 +1,22 @@
-## 欢迎来到H文库
-[前往主站](https://www.sirin.xyz)
+# 目录树
+
+{% hint style="danger" %}
+推荐使用[chrome](https://www.google.cn/intl/zh-CN/chrome/)浏览器访问，否则可能产生bug
+{% endhint %}
+
+{% hint style="info" %}
+\*\*\*\*[**前传：黑历史**](book-1/ac.md)**（未完）**
+{% endhint %}
+
+{% hint style="info" %}
+\*\*\*\*[**设定集**](hg/index.md)\*\*\*\*
+{% endhint %}
+
+{% hint style="danger" %}
+**如果有任何问题请向 admin@sirin.xyz 反馈**
+{% endhint %}
 
 
-### 文库目录
 
- 名称 | 类型 | 时间
------------- | -------------| -------------
- [bbs](https://bbs.mihoyo.tk)|论坛 | 正常
- [pan](https://pan.mihoyo.tk)| 云盘 | 未开放
-[main](https://mihoyo.tk)| 主站|  正常
-[变百-转生到了异世界，搞个百合没问题吧？](https://h.sirin.xyz/2.txt)|txt|  2020.1.9
-[变百-萝莉吸血鬼也能当主角](https://h.sirin.xyz/1.txt)|txt|  2020.1.9
-[变百-魔法少女奈叶之双子物语](https://h.sirin.xyz/0.txt)|txt|  2020.1.9
-
+![](.gitbook/assets/732.png)
 
