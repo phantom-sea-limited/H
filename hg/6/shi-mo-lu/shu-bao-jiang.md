@@ -10,7 +10,9 @@
 {% endtab %}
 
 {% tab title="立绘" %}
-![](../../../.gitbook/assets/image%20%283%29.png)
+
+
+![](https://static-event.benghuai.com/ip/assets/images/characters/servant/b5-1.png)
 
 ![](../../../.gitbook/assets/image-6.png)
 {% endtab %}
