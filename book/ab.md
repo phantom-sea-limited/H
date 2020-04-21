@@ -8,5 +8,3 @@ May involve: GUNs GIRLZ 2+ girl frontline + Touhou Project +**etc.**
 
 ![](../.gitbook/assets/2019-03-07.jpg)
 
-
-
