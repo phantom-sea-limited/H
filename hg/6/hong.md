@@ -1,7 +1,5 @@
 # 红
 
-
-
 {% tabs %}
 {% tab title="介绍" %}
 当她手中的纸风车旋转的时候，就能带来幸运和祝福。出门的时候总会有使魔围着她，不过奥菲利亚能让她安心呢。
@@ -12,7 +10,7 @@
 {% endtab %}
 
 {% tab title="立绘" %}
-![](../../.gitbook/assets/b7-1.png)
+![](../../.gitbook/assets/b7-1%20%281%29.png)
 
 ![](../../.gitbook/assets/b7-3.png)
 {% endtab %}

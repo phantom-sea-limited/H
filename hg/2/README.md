@@ -11,7 +11,7 @@ Authorized access
 权限等级 LV 4 Sv 4（双最高等级），以下为您可以查看的词条
 {% endhint %}
 
-### 集团
+## 集团
 
 {% tabs %}
 {% tab title="Lv0" %}
@@ -57,7 +57,7 @@ Authorized access
 {% endtab %}
 {% endtabs %}
 
-### 研究所
+## 研究所
 
 {% tabs %}
 {% tab title="Sv0" %}
@@ -105,5 +105,5 @@ Authorized access
 {% endtab %}
 {% endtabs %}
 
-### [公开信息](../1/2.md)
+## [公开信息](../1/2.md)
 

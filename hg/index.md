@@ -4,7 +4,7 @@
 项目代号 **HG**（Historical genes）
 {% endhint %}
 
-### 目前已知数据库\信息库
+## 目前已知数据库\信息库
 
 {% hint style="info" %}
 1. [**世纪中枢**](1/)
