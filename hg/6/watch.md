@@ -23,7 +23,7 @@
 15. [使魔世界的奇奇妙妙](http://mp.weixin.qq.com/s/XSdnireH1DVTV8qiGJ4muA)
 16. [使魔大陆与板块学说](http://mp.weixin.qq.com/s/ttVNCOn6Q2y7_CUzSVh4ZQ)
 17. [理念的相斥乃斗争之源](http://mp.weixin.qq.com/s/6OlUoFlG5PGW03kwKbsZ0Q)
-18. [追求的正确姿势](http://mp.weixin.qq.com/s/YuCxkqZaSKQN8M7kiyWdzA)
+18. [追求的正确姿势](http://mp.weixin.qq.com/s/YuCxkqZaSKQN8M7kiyWdzA) 
 19. [月光剧场序幕——艺术冲突](http://mp.weixin.qq.com/s?__biz=MzA3MzExMzkyMg==&mid=2659797421&idx=2&sn=eb8669d628f8d9d2771f422bbd671d84&chksm=8469e180b31e689611d4500afa9459028273e417542ae2d4110db7b0ff9b321be274f3450372&scene=21#wechat_redirect)
 20. [月光剧场序幕——深夜扰民](http://mp.weixin.qq.com/s?__biz=MzA3MzExMzkyMg==&mid=2659797501&idx=2&sn=9f28bd7afe36a4fa2da523aacfdb439d&chksm=8469e1d0b31e68c65cfefdb1d8c4719ed347c8c637bdb15494139f7008032ae23dbd1fa96d75&scene=21#wechat_redirect)
 21. [药药药，切克闹](http://mp.weixin.qq.com/s?__biz=MzA3MzExMzkyMg==&mid=2659797575&idx=1&sn=cf67111c0cf28fd880807fb572e6a036&chksm=8469e26ab31e6b7ca632a1d0524d849f0cef8250d88dbbae117ce860b48ab2de18ac3854cb15&scene=21#wechat_redirect)
@@ -34,4 +34,10 @@
 26. [灿烂月光 静静地照亮明天](http://mp.weixin.qq.com/s?__biz=MzA3MzExMzkyMg==&mid=2659798075&idx=1&sn=b267fa5043e58949a28e7ecb6a001aa6&chksm=8469e416b31e6d006d927a34d60075bc10164676aa6526306f0b99e575d20c77b27d51944976&scene=21#wechat_redirect)
 27. [在八音盒的伴奏下吟唱（前篇）](http://mp.weixin.qq.com/s?__biz=MzA3MzExMzkyMg==&mid=2659798105&idx=4&sn=5de3bf59f023ba90eab92ed4e7c25363&chksm=8469e474b31e6d62ed7c626a4bd92548e0a34632adafb0bf8770311d1abe487a1af7b5a2a460&scene=21#wechat_redirect)
 28. [在八音盒的伴奏下吟唱（后篇）](http://mp.weixin.qq.com/s?__biz=MzA3MzExMzkyMg==&mid=2659798142&idx=2&sn=5d36fbb9060533e798c1d799e0cd24b4&chksm=8469e453b31e6d4547616fca5f9b600da891ef38ff7c7eb88ebd48c7d830a7ab684cbaa4fbe6&scene=21#wechat_redirect)
-29. 30. 31. 32. 
+29. [呜呼，如绚烂的泡沫一般破灭](http://mp.weixin.qq.com/s?__biz=MzA3MzExMzkyMg==&mid=2659797681&idx=1&sn=a6357adfb48722f43b4ecfcc1162968a&chksm=8469e29cb31e6b8a337f89634a0e68b9a39da5fa683530c7cb5d0ca33f2abd6aa6abb01c1c47&scene=21#wechat_redirect)
+30. [孤独是无法成为王者的](http://mp.weixin.qq.com/s/2npP1RKV4L0V_lIISewQdQ)
+31. 「失落终端」[谁来拯救这废墟之中孤寂的声音呢](http://mp.weixin.qq.com/s/yqYMji_A8YblfZeub0EYHA)
+32. 「失落终端」[一起读取来自原初世代的信息吧](http://mp.weixin.qq.com/s/fkB6zprmLjimlGa8dn9onA)
+33. 「失落终端」[向往自由的你，与蛹决裂吧！](http://mp.weixin.qq.com/s/pTKRQiFOYsmCChm7dlR-DA)
+34. 「异界战线」
+
