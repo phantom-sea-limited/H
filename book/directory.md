@@ -7,6 +7,10 @@
 {% endhint %}
 
 {% hint style="info" %}
-**set（**I**n translation）**
+**set（In translation）**
+{% endhint %}
+
+{% hint style="danger" %}
+**Stop updating**
 {% endhint %}
 
