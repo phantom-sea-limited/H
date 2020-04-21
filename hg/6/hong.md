@@ -13,6 +13,8 @@
 ![](../../.gitbook/assets/b7-1%20%281%29.png)
 
 ![](../../.gitbook/assets/b7-3.png)
+
+![](../../.gitbook/assets/7045_1.png)
 {% endtab %}
 {% endtabs %}
 
