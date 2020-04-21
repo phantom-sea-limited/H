@@ -8,9 +8,11 @@
 
 ## 更新随缘
 
-![](.gitbook/assets/2019-03-07.jpg)
+![&#x897F;&#x7433;&#x5C0F;&#x5929;&#x4F7F;](.gitbook/assets/cg01_iphone5-12.png)
 
 {% hint style="danger" %}
 推荐使用[chrome](https://www.google.cn/intl/zh-CN/chrome/)浏览器访问，否则可能产生bug
 {% endhint %}
+
+
 
