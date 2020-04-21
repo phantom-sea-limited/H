@@ -6,7 +6,7 @@
 
 #### 以下为观测报告:
 
-1. [崩学大讲堂 那些奇妙的童话](http://mp.weixin.qq.com/s/X4jvDYetm-7qZokV_dwL_A)
+1. [那些奇妙的童话](http://mp.weixin.qq.com/s/X4jvDYetm-7qZokV_dwL_A)
 2. [狼外婆与小红帽](https://mp.weixin.qq.com/s/UJRfRlYSOV2-XERGz10dgg)
 3. [卖火柴的小兔纸](http://mp.weixin.qq.com/s/KdvgtXLRYhMc7SEHcDiwZw)
 4. [八岁芽衣好棒棒](http://mp.weixin.qq.com/s/N5Q_s-g2KO5pWICN-rvjEg)
@@ -39,5 +39,9 @@
 31. 「失落终端」[谁来拯救这废墟之中孤寂的声音呢](http://mp.weixin.qq.com/s/yqYMji_A8YblfZeub0EYHA)
 32. 「失落终端」[一起读取来自原初世代的信息吧](http://mp.weixin.qq.com/s/fkB6zprmLjimlGa8dn9onA)
 33. 「失落终端」[向往自由的你，与蛹决裂吧！](http://mp.weixin.qq.com/s/pTKRQiFOYsmCChm7dlR-DA)
-34. 「异界战线」
+34. 「异界战线」[危险还是安全？翁德兰大陆探秘！](http://mp.weixin.qq.com/s/RrcOX5J-91tgtNJ2i7lIhA)
+35. [从一条穿越数万年的信息说起](http://mp.weixin.qq.com/s/gOvN_hAigkYQxMPLEdWsOQ)
+36. [追溯过去之变，迈向新生之门](http://mp.weixin.qq.com/s/XjdItWO9-YTTzzi6wFaPJw)
+37. [海中的岛屿 哪里是谁的殿堂呢](http://mp.weixin.qq.com/s/uQWnt-659nwUGQx22HGI_w)
+38. 罪之本愿[「杏的开发三问」](https://mp.weixin.qq.com/s/NOF1VE2j0OCm3Y2Hw4Jurg)
 
