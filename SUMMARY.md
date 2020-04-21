@@ -8,7 +8,7 @@
 * [关于](book-1/ac.md)
 * [Part 1学院的故事](book-1/part1/README.md)
   * [第一章·学姐与松鼠](book-1/part1/1.md)
-  * [第一天（旧文档）](book-1/part1/1-0.md)
+  * [第二天·不一样的宿舍](book-1/part1/2.md)
 
 ## 设定集 <a id="hg"></a>
 
