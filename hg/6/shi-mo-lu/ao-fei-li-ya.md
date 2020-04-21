@@ -10,9 +10,9 @@
 {% endtab %}
 
 {% tab title="立绘" %}
-![](../../.gitbook/assets/image-1.png)
+![](../../../.gitbook/assets/image-1.png)
 
-![](../../.gitbook/assets/image.png)
+![](../../../.gitbook/assets/image.png)
 {% endtab %}
 {% endtabs %}
 
