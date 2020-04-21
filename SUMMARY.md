@@ -27,6 +27,7 @@
   * [人物相关](hg/4/1.md)
 * [巴别塔](hg/5.md)
 * [死亡伪典的藏书室](hg/6/README.md)
+  * [使魔观测站](hg/6/watch.md)
   * [使魔大事件](hg/6/things/README.md)
     * [古树战争](hg/6/things/gu-shu-zhan-zheng.md)
   * [使魔录](hg/6/shi-mo-lu/README.md)
