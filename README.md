@@ -9,6 +9,8 @@
 {% hint style="success" %}
 [**H文库**](http://pan.phantom-sea-limited.ltd:222/)**← ← ← ← ← ←**
 
+\*\*\*\*[**轻文+轻小说**](http://nov.phantom-sea-limited.ltd:222/)\*\*\*\*
+
 **文库报告：已收集10,664**
 
 **推荐收藏本站：**[**https://www.phantom-sea-limited.ltd/**](https://www.phantom-sea-limited.ltd/)
