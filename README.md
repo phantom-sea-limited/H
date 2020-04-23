@@ -9,7 +9,7 @@
 {% hint style="success" %}
 [**H文库**](http://pan.phantom-sea-limited.ltd:222/)**← ← ← ← ← ←**
 
-\*\*\*\*[**轻文+轻小说**](http://nov.phantom-sea-limited.ltd:222/)\*\*\*\*
+\*\*\*\*[**轻文+轻小说**](http://nov.phantom-sea-limited.ltd:222/)**（因为不知名原因，访问较慢）**
 
 **文库报告：已收集10,664**
 
