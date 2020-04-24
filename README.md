@@ -9,7 +9,7 @@
 {% hint style="success" %}
 [**H文库**](http://pan.phantom-sea-limited.ltd:222/)**← ← ← ← ← ←**
 
-[**轻文+轻小说**](http://nov.phantom-sea-limited.ltd:333/)**（文库异常，明天恢复备用链接(https://skirin-my.sharepoint.com/:f:/g/personal/sirin_skirin_onmicrosoft_com/EtqdwqSdCzNLqyBr1pwaum4BkDkYw095lGqxUsDndojQPQ?e=BIYWt6)）**
+[**轻文+轻小说**](http://nov.phantom-sea-limited.ltd:333/)**（文库异常，明天恢复备用链接(https://skirin-my.sharepoint.com/:f:/g/personal/sirin_skirin_onmicrosoft_com/EtqdwqSdCzNLqyBr1pwaum4BkDkYw095lGqxUsDndojQPQ?e=BIYWt6 ）**
 
 **文库报告：已收集10,664**
 
