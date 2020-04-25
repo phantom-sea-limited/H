@@ -4,6 +4,7 @@
 
 {% hint style="danger" %}
 为了规避安全检测，故采用双层手动跳转，造成不便请谅解
+链接也能异常，请注意
 {% endhint %}
 
 {% hint style="success" %}
