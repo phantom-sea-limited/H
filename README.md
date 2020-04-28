@@ -9,7 +9,7 @@
 {% hint style="success" %}
 
 
-[**幻海图书馆**](http://pan.phantom-sea-limited.ltd:333/)**（文库已合并）**
+[**幻海图书馆**](https://nov.phantom-sea-limited.ltd/)**（文库已合并）**
 
 **文库报告：已收集10,664**
 
