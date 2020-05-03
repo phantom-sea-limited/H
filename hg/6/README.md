@@ -1,3 +1,7 @@
+---
+description: HG-WONDERLAND
+---
+
 # 死亡伪典的藏书室
 
 {% hint style="info" %}
