@@ -7,11 +7,9 @@
 {% endhint %}
 
 {% hint style="success" %}
-
-
 [**幻海图书馆**](https://nov.phantom-sea-limited.ltd/)**（文库已合并）**
 
-**文库报告：已收集10,664**
+**文库报告：已收集\*\*\*\*\***
 
 **推荐收藏本站：**[**https://www.phantom-sea-limited.ltd/**](https://www.phantom-sea-limited.ltd/)
 
