@@ -4,7 +4,7 @@
 建立于起源岛，用于观测其他世界的变化
 {% endhint %}
 
-## 以下为观测报告:
+## 以下为观测记录:
 
 1. [那些奇妙的童话](http://mp.weixin.qq.com/s/X4jvDYetm-7qZokV_dwL_A)
 2. [狼外婆与小红帽](https://mp.weixin.qq.com/s/UJRfRlYSOV2-XERGz10dgg)
