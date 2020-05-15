@@ -9,7 +9,7 @@
 {% hint style="success" %}
 [**幻海图书馆**](https://nov.phantom-sea-limited.ltd/)**（文库已合并）**
 
-**文库报告：**[**文库更新日志**](data.md)\*\*\*\*
+**文库报告：**[**文库更新日志**](data/)\*\*\*\*
 
 **推荐收藏本站：**[**https://www.phantom-sea-limited.ltd/**](https://www.phantom-sea-limited.ltd/)
 
