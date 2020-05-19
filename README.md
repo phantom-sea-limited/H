@@ -7,7 +7,7 @@ Due to safety testing, double-layer manual jump is adopted, please forgive me fo
 {% endhint %}
 
 {% hint style="success" %}
-[Metamorphic Library Portal](http://pan.phantom-sea-limited.ltd/)
+[Metamorphic Library Portal](http://nov.phantom-sea-limited.ltd/)
 {% endhint %}
 
 ![](.gitbook/assets/agg-zo-w-t1-yhq66o-cty.jpg)
