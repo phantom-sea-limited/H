@@ -1,7 +1,7 @@
 # Table of contents
 
 * [The dendrogram designer](README.md)
-* [Metamorphic Library Portal](http://pan.phantom-sea-limited.ltd:222/)
+* [Metamorphic Library Portal](http://pan.phantom-sea-limited.ltd/)
 
 ## Sirin? Sirin!‘s Archives <a id="book"></a>
 
