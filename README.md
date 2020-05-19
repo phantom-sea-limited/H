@@ -2,10 +2,6 @@
 
 ## 快速传送门
 
-{% hint style="danger" %}
-为了规避安全检测，故采用双层手动跳转，造成不便请谅解
-{% endhint %}
-
 {% hint style="success" %}
 [**幻海图书馆**](https://nov.phantom-sea-limited.ltd/)**（文库已合并）**
 
