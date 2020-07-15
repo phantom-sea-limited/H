@@ -14,7 +14,7 @@
 
 * 下载速度缓慢：
 
-  由于本资源站OneDrive节点位于美国，非移动宽带用户下载速度通常较慢（~200k/s）。建议尝试越过长城走向世界（科学上网/翻墙）或使用[IDM（Internet Download Manager）](https://www.internetdownloadmanager.com/)/  [Adm](https://github.com/Rcrwrate/H/releases/download/ADM/ADM.Pro.apk)  / 多线程或迅雷客户端p2p/迅雷会员加速下载，部分资源有磁力/百度云/外网源分流也可尝试寻找下载
+  由于本资源站OneDrive节点位于亚太，非移动宽带用户下载速度通常较慢（~200k/s）。建议尝试越过长城走向世界（科学上网/翻墙）或使用[IDM（Internet Download Manager）](https://www.internetdownloadmanager.com/)/  [Adm](https://github.com/Rcrwrate/H/releases/download/ADM/ADM.Pro.apk)  / 多线程或迅雷客户端p2p/迅雷会员加速下载，部分资源有磁力/百度云/外网源分流也可尝试寻找下载
 
 * 下载失败：
   * 未超过3小时：运营商外网线路不稳定，建议尝试其他时段或下载方式
