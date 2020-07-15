@@ -25,7 +25,7 @@
 * [天命数据库](hg/3/README.md)
   * [使魔大陆](hg/3/shi-mo-da-lu.md)
   * [巴比伦学园](hg/3/2.md)
-* [人类联合联盟公开库](hg/4/README.md)
+* [人类合约联盟公开库](hg/4/README.md)
   * [人物相关](hg/4/1.md)
 * [巴别塔](hg/5.md)
 * [死亡伪典的藏书室](hg/6/README.md)
