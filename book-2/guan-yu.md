@@ -14,5 +14,5 @@
 我，，，，是天才，，么，，，，。很遗憾，，你正是那所谓的天才
 {% endhint %}
 
-> Part 1点此[开始阅读](part1-hui-gui.md)
+> Part 1点此[开始阅读](part1-hui-gui/)
 

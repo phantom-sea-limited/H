@@ -13,7 +13,8 @@
 ## 正传·未定 <a id="book-2"></a>
 
 * [关于](book-2/guan-yu.md)
-* [Part1回归](book-2/part1-hui-gui.md)
+* [Part1回归](book-2/part1-hui-gui/README.md)
+  * [第一章·暴乱](book-2/part1-hui-gui/di-yi-zhang-bao-luan.md)
 
 ## 设定集 <a id="hg"></a>
 
