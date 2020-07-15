@@ -107,5 +107,5 @@ Authorized access
 {% endtab %}
 {% endtabs %}
 
-## [公开信息](../1/2.md)
+## [公开信息](../1/y.md)
 
