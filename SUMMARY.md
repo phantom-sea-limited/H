@@ -10,6 +10,11 @@
   * [第一章·学姐与松鼠](book-1/part1/1.md)
   * [第二章·不一样的宿舍](book-1/part1/2.md)
 
+## 正传·未定 <a id="book-2"></a>
+
+* [关于](book-2/guan-yu.md)
+* [Part1回归](book-2/part1-hui-gui.md)
+
 ## 设定集 <a id="hg"></a>
 
 * [设定集](hg/index.md)

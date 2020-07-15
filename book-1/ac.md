@@ -1,11 +1,11 @@
 ---
-description: AC
+description: BC
 ---
 
 # 关于
 
 {% hint style="success" %}
-项目代号 **AC-0  
+项目代号 **BC-0  
 本文为「西琳？西琳！」的前传**
 {% endhint %}
 

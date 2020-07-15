@@ -9,6 +9,10 @@
 {% endhint %}
 
 {% hint style="info" %}
+\*\*\*\*[**正传 · 未定**](book-2/guan-yu.md)\*\*\*\*
+{% endhint %}
+
+{% hint style="info" %}
 [**设定集**](hg/index.md)
 {% endhint %}
 
