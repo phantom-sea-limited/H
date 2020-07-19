@@ -7,6 +7,8 @@
 * [文库报告](report/README.md)
   * [六月报告](report/liu-yue-bao-gao.md)
   * [五月报告](report/5.md)
+* [周年庆](anniversary/README.md)
+  * [幻海鼠书祭](anniversary/huan-hai-shu-shu-ji.md)
 * [公告板](accommodate.md)
 * [help](help.md)
 * [赞助](money.md)
