@@ -28,6 +28,7 @@
 * [阴月数据中心](hg/2/README.md)
   * [授权申明](hg/2/shou-quan-shen-ming.md)
   * [核心实验室 OMCL](hg/2/studio.md)
+  * [技术：回环池](hg/2/ji-shu-hui-huan-chi.md)
 * [天命数据库](hg/3/README.md)
   * [使魔大陆](hg/3/shi-mo-da-lu.md)
   * [巴比伦学园](hg/3/2.md)

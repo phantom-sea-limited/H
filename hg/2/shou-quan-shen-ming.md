@@ -9,10 +9,6 @@ start
 Authorized access
 ```
 
-{% hint style="success" %}
-权限等级 LV 4 Sv 4（双最高等级），以下为您可以查看的词条
-{% endhint %}
-
 ## 集团
 
 {% tabs %}
