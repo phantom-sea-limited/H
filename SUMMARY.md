@@ -7,7 +7,7 @@
 
 * [关于](book-1/ac.md)
 * [Part 1学院的故事](book-1/part1/README.md)
-  * [第一章·学姐与松鼠](book-1/part1/1.md)
+  * [废稿：第一章·学姐与松鼠](book-1/part1/1.md)
   * [第二章·不一样的宿舍](book-1/part1/2.md)
 
 ## 正传·未定 <a id="book-2"></a>
