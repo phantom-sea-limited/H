@@ -72,16 +72,14 @@ Authorized access
 
 {% tab title="Sv2" %}
 {% hint style="info" %}
-权限说明：分部核心研究员
+权限说明：项目核心研究员
 {% endhint %}
 {% endtab %}
 
 {% tab title="Sv3" %}
 {% hint style="info" %}
-权限说明：核心研究员
+权限说明：核心研究员兼管理人员
 {% endhint %}
-
-\*\*\*\*
 {% endtab %}
 
 {% tab title="Sv4" %}
