@@ -53,6 +53,12 @@ Authorized access
 权限异常：系统/AI权限
 {% endhint %}
 {% endtab %}
+
+{% tab title="Lv-0" %}
+{% hint style="info" %}
+权限说明：底层权限
+{% endhint %}
+{% endtab %}
 {% endtabs %}
 
 ## 研究所
@@ -97,6 +103,12 @@ Authorized access
 {% tab title="Sv-2" %}
 {% hint style="danger" %}
 权限异常：系统/AI权限
+{% endhint %}
+{% endtab %}
+
+{% tab title="Sv-0" %}
+{% hint style="info" %}
+权限说明：底层权限
 {% endhint %}
 {% endtab %}
 {% endtabs %}
