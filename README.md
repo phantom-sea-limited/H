@@ -5,9 +5,9 @@
 {% hint style="success" %}
 ### [**幻海图书馆**](https://nov.phantom-sea-limited.ltd/)**（国内线）**
 
-### \*\*\*\*[**幻海图书馆**](https://nov-eu.herokuapp.com/)**（英国专线）**
+### \*\*\*\*[**幻海图书馆**](https://nov-eu.herokuapp.com/)**（英国专线）\[大量文件加载优化\]**
 
-### \*\*\*\*[**幻海图书馆**](https://nov-us.herokuapp.com/)**（美国专线）**
+### \*\*\*\*[**幻海图书馆**](https://nov-us.herokuapp.com/)**（美国专线）\[大量文件加载优化\]**
 {% endhint %}
 
 ## APP相关资源下载：[点此](https://pan.phantom-sea-limited.ltd/#/s/vdFN)
