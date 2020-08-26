@@ -3,7 +3,7 @@
 ## 快速传送门
 
 {% hint style="success" %}
-### [**幻海图书馆**](https://nov.phantom-sea-limited.ltd/)**（国内线）**
+### \*\*\*\*[**中国内线**](https://nov.phantom-sea-limited.ltd/)\*\*\*\*
 
 ### [**英国专线**](https://nov-eu.herokuapp.com/)**（多文件加载优化）**
 
