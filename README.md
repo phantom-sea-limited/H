@@ -3,13 +3,13 @@
 ## 快速传送门
 
 {% hint style="success" %}
-### \*\*\*\*[**中国内线**](https://nov.phantom-sea-limited.ltd/)\*\*\*\*
+### [**中国内线**](https://nov.phantom-sea-limited.ltd/)
 
 ### [**英国专线**](https://nov-eu.herokuapp.com/)**（多文件加载优化）**
 
-### \*\*\*\*[**美国专线**](https://nov-us.herokuapp.com/)**（多文件加载优化）**
+### [**美国专线**](https://nov-us.herokuapp.com/)**（多文件加载优化）**
 
-### [全球加速](https://cdn.phantom-sea-limited.ltd)（APP专线 ，有UA限制）
+### [全球加速](https://cdn.phantom-sea-limited.ltd)（APP/IOS专线 ，有UA限制）
 
 ### [全球加速](https://book.sirin.xyz)
 {% endhint %}
