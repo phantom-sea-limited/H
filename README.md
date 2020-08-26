@@ -11,7 +11,7 @@
 
 ### [全球加速](https://cdn.phantom-sea-limited.ltd)（APP专线 ，有UA限制）
 
-### [全球加速](https://book.sirin.xyz)（无限制）
+### [全球加速](https://book.sirin.xyz)
 {% endhint %}
 
 ### 
