@@ -3,7 +3,7 @@
 ## 快速传送门
 
 {% hint style="success" %}
-### [**中国内线**](https://nov.phantom-sea-limited.ltd/)**(10月后与APP线合并)**
+### [**中国内线**](https://nov.phantom-sea-limited.ltd/)**\(10月后与APP线合并\)**
 
 ### [**全球加速**](https://cdn.phantom-sea-limited.ltd/)**（APP/IOS专线）**
 
@@ -14,8 +14,6 @@
 ### [**美国专线**](https://nov-us.herokuapp.com/)**（多文件加载优化）**
 {% endhint %}
 
-### 
-
 ## APP相关资源下载：[点此](https://pan.phantom-sea-limited.ltd/#/s/vdFN)
 
 ![](.gitbook/assets/agg-zo-w-t1-yhq66o-cty.jpg)
@@ -24,7 +22,15 @@
 推荐使用[chrome](https://www.google.cn/intl/zh-CN/chrome/)浏览器访问，否则可能产生大量bug
 {% endhint %}
 
-| [苏ICP备20023190号](http://beian.miit.gov.cn/) |
+## 技术支持
+
+
+
+![](https://i.loli.net/2020/08/27/fzokEqxSTWH7y4h.png)
+
+
+
+| \*\*\*\*[**苏ICP备20023190号**](http://beian.miit.gov.cn/)\*\*\*\* |
 | :---: |
 
 
