@@ -2,9 +2,11 @@
 
 ## 快速传送门
 
-{% hint style="success" %}
-### [**中国内线**](https://nov.phantom-sea-limited.ltd/)**\(10月后与APP线合并\)**
+{% hint style="danger" %}
+### [**中国内线**](https://nov.phantom-sea-limited.ltd/)**\(即将维护请注意\)**
+{% endhint %}
 
+{% hint style="success" %}
 ### [**全球加速**](https://cdn.phantom-sea-limited.ltd/)**（APP/IOS专线）**
 
 ### [**英国专线**](https://nov-eu.herokuapp.com/)**（多文件加载优化）**
@@ -22,12 +24,7 @@
 
 ## 技术支持
 
-
-
-
 [![](https://i.loli.net/2020/08/27/fzokEqxSTWH7y4h.png)](https://www.upyun.com/)
-
-
 
 | [**苏ICP备20023190号**](http://beian.miit.gov.cn/) |
 | :---: |
