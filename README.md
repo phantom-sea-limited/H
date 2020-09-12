@@ -6,6 +6,8 @@
 ### [中国上海](https://s.nov.phantom-sea-limited.ltd/) / [中国广州](https://g.nov.phantom-sea-limited.ltd/)
 
 ### [**全球加速**](https://cdn.phantom-sea-limited.ltd/)**（APP/IOS专线）**
+
+### [美国北](http://nov.sirin.top)
 {% endhint %}
 
 {% hint style="danger" %}
