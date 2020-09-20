@@ -7,7 +7,7 @@
 
 ### [**全球加速**](https://cdn.phantom-sea-limited.ltd/)**（APP/IOS专线）**
 
-### [美国北](http://nov.sirin.top)
+### [美国·北](http://nov.sirin.top)
 {% endhint %}
 
 {% hint style="danger" %}
