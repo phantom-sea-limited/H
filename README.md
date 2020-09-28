@@ -7,11 +7,11 @@
 
 ### [**全球加速**](https://cdn.phantom-sea-limited.ltd/)**（APP/IOS专线）**
 
-
+### [**英国专线**](https://nov-eu.herokuapp.com/) **/** [**美国专线**](https://nov-us.herokuapp.com/)**（多文件加载优化）**
 {% endhint %}
 
 {% hint style="danger" %}
-### [**英国专线**](https://nov-eu.herokuapp.com/) **/** [**美国专线**](https://nov-us.herokuapp.com/)**（多文件加载优化）**
+
 ### [美国·北](http://nov.sirin.top)
 {% endhint %}
 
