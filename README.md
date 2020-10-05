@@ -25,7 +25,6 @@
 
 ## 技术支持
 
-[![](https://i.loli.net/2020/08/27/fzokEqxSTWH7y4h.png)](https://www.upyun.com/)
 
 | [**苏ICP备20023190号**](http://beian.miit.gov.cn/) |
 | :---: |
