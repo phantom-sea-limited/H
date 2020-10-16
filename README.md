@@ -3,9 +3,8 @@
 ## 快速传送门
 
 {% hint style="success" %}
-### [中国上海](https://s.nov.phantom-sea-limited.ltd/) / [中国广州](https://g.nov.phantom-sea-limited.ltd/) \[测试ing\]
 
-### [**全球加速**](https://cdn.phantom-sea-limited.ltd/)**（APP/IOS专线）**
+### [**全球加速**](https://cdn.phantom-sea-limited.ltd/)**（统一访问，其他地址均403）**
 
 
 {% endhint %}
