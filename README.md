@@ -4,7 +4,7 @@
 
 {% hint style="success" %}
 
-### [**全球加速**](https://cdn.phantom-sea-limited.ltd/)**（统一访问，其他地址均403）**
+### [**全球加速**](https://cdn.phantom-sea-limited.ltd/)**（紧急修复ing）**
 ### [**上海节点**](https://s.nov.phantom-sea-limited.ltd/)
 ### [**备用**](http://sirin.rf.gd/)
 
