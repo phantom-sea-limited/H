@@ -15,7 +15,11 @@
 ## **完整目录树**
 
 {% hint style="success" %}
+### phantom-sea-limited.ltd
 
+* cdn.phantom-sea-limited.ltd
+* s.nov.phantom-sea-limited.ltd
+* pixiv.phantom-sea-limited.ltd 
 {% endhint %}
 
 ![](.gitbook/assets/agg-zo-w-t1-yhq66o-cty.jpg)
