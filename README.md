@@ -17,9 +17,14 @@
 {% hint style="success" %}
 ### phantom-sea-limited.ltd
 
-* cdn.phantom-sea-limited.ltd
-* s.nov.phantom-sea-limited.ltd
-* pixiv.phantom-sea-limited.ltd 
+* [cdn](https://cdn.phantom-sea-limited.ltd) 图书馆加速线
+* [s.nov](https://s.nov.phantom-sea-limited.ltd) 图书馆上海
+* [pixiv](https://pixiv.phantom-sea-limited.ltd) p站镜像（取自[journey-ad](https://github.com/journey-ad/pixiv-viewer)）
+
+### sirin.top
+
+* \*\*\*\*[**www**](https://www.sirin.top) **功能站**
+* \*\*\*\*[**nov**](https://nov.sirin.top) **备用图书馆**
 {% endhint %}
 
 ![](.gitbook/assets/agg-zo-w-t1-yhq66o-cty.jpg)
