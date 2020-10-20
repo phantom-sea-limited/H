@@ -17,9 +17,9 @@
 {% hint style="success" %}
 ### phantom-sea-limited.ltd
 
-* [cdn](https://cdn.phantom-sea-limited.ltd) 图书馆加速线
-* [s.nov](https://s.nov.phantom-sea-limited.ltd) 图书馆上海
-* [pixiv](https://pixiv.phantom-sea-limited.ltd) p站镜像（取自[journey-ad](https://github.com/journey-ad/pixiv-viewer)）
+* [**cdn**](https://cdn.phantom-sea-limited.ltd) **图书馆加速线**
+* \*\*\*\*[**s.nov**](https://s.nov.phantom-sea-limited.ltd) **图书馆上海**
+* \*\*\*\*[**pixiv**](https://pixiv.phantom-sea-limited.ltd) **p站镜像（取自**[**journey-ad**](https://github.com/journey-ad/pixiv-viewer)**）**
 
 ### sirin.top
 
