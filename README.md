@@ -24,7 +24,6 @@
 ### sirin.top
 
 * \*\*\*\*[**www**](https://www.sirin.top) **功能站**
-* \*\*\*\*[**nov**](https://nov.sirin.top) **备用图书馆**
 * \*\*\*\*[**bbs**](https://bbs.sirin.top) **开发者日志**
 * \*\*\*\*[**status**](https://status.sirin.top) **检测点**
 {% endhint %}
