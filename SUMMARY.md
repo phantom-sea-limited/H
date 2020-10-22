@@ -48,6 +48,8 @@
     * [奥菲利娅](hg/6/shi-mo-lu/ao-fei-li-ya.md)
     * [冰铃](hg/6/shi-mo-lu/bing-ling.md)
     * [休伯利安](hg/6/shi-mo-lu/1.md)
+    * [月光王座](hg/6/shi-mo-lu/yue-guang-wang-zuo.md)
+    * [蕾米娅](hg/6/shi-mo-lu/lei-mi-ya.md)
 
 ## 售后服务 <a id="ex"></a>
 
