@@ -1,11 +1,6 @@
 # 授权申明
 
-
-
 ```sql
-time 0 
-start
-.................
 Authorized access
 ```
 
@@ -113,5 +108,5 @@ Authorized access
 {% endtab %}
 {% endtabs %}
 
-## [公开信息](../1/y/)
+## [公开信息](../1/y/yin-yue.md)
 
