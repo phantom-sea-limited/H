@@ -3,7 +3,7 @@
 ## 快速传送门
 
 {% hint style="success" %}
-### [**全球加速**](https://cdn.phantom-sea-limited.ltd/)**（维护完成）** [**备用**](http://sirin.rf.gd/)
+### [**全球加速**](https://cdn.phantom-sea-limited.ltd/)   ****[**备用**](http://sirin.rf.gd/)
 {% endhint %}
 
 {% hint style="danger" %}
