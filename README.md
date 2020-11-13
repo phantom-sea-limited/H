@@ -24,12 +24,14 @@
 ### sirin.top
 
 * \*\*\*\*[**www**](https://www.sirin.top) **功能站**   
-* \*\*\*\*[**app下载**](https://www.sirin.top/app.htm)\*\*\*\*
+  * [**app下载**](https://www.sirin.top/app.htm)\*\*\*\*
 * \*\*\*\*[**bbs**](https://bbs.sirin.top) **开发者日志**
 * \*\*\*\*[**status**](https://status.sirin.top) **检测点**
 * \*\*\*\*[**pixiv**](https://pixiv.sirin.top) **p站镜像（取自**[**journey-ad**](https://github.com/journey-ad/pixiv-viewer)**）**
 * \*\*\*\*[**bb**](https://bb.sirin.top) **崩坏学园CG站**
 {% endhint %}
+
+\*\*\*\*
 
 ![](.gitbook/assets/agg-zo-w-t1-yhq66o-cty.jpg)
 
