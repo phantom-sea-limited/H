@@ -20,6 +20,7 @@
 * [**cdn**](https://cdn.phantom-sea-limited.ltd) **图书馆加速线**
 * \*\*\*\*[**s.nov**](https://s.nov.phantom-sea-limited.ltd) **图书馆上海**
 * \*\*\*\*[**app**](https://app.phantom-sea-limited.ltd/) **本站加速版**
+* \*\*\*\*[**bb**](https://bb.phantom-sea-limited.ltd/) **崩坏学园CG加速**
 
 ### sirin.top
 
