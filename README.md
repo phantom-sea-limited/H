@@ -19,7 +19,7 @@
 
 * [**cdn**](https://cdn.phantom-sea-limited.ltd) **图书馆加速线**
 * \*\*\*\*[**s.nov**](https://s.nov.phantom-sea-limited.ltd) **图书馆上海**
-* \*\*\*\*[**pixiv**](https://pixiv.phantom-sea-limited.ltd) **p站镜像（取自**[**journey-ad**](https://github.com/journey-ad/pixiv-viewer)**）**
+* \*\*\*\*[**app**](https://app.phantom-sea-limited.ltd/) **本站加速版**
 
 ### sirin.top
 
@@ -27,6 +27,8 @@
 * \*\*\*\*[**app下载**](https://www.sirin.top/app.htm)\*\*\*\*
 * \*\*\*\*[**bbs**](https://bbs.sirin.top) **开发者日志**
 * \*\*\*\*[**status**](https://status.sirin.top) **检测点**
+* \*\*\*\*[**pixiv**](https://pixiv.sirin.top) **p站镜像（取自**[**journey-ad**](https://github.com/journey-ad/pixiv-viewer)**）**
+* \*\*\*\*[**bb**](https://bb.sirin.top) **崩坏学园CG站**
 {% endhint %}
 
 ![](.gitbook/assets/agg-zo-w-t1-yhq66o-cty.jpg)
