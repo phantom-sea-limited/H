@@ -3,7 +3,7 @@
 ## 快速传送门
 
 {% hint style="success" %}
-### [**全球加速**](https://cdn.phantom-sea-limited.ltd/)   ****[**备用**](http://sirin.rf.gd/)    ****[**法国备用**](http://fr.sirin.top/)\*\*\*\*
+### [**全球加速**](https://cdn.phantom-sea-limited.ltd/)   ****[**备用**](http://sirin.rf.gd/)    ****[**法国备用**](http://fr.sirin.top/) ****[ **印度备用**](https://in.sirin.top/?/)\*\*\*\*
 {% endhint %}
 
 {% hint style="danger" %}
@@ -30,6 +30,7 @@
 * \*\*\*\*[**status**](https://status.sirin.top) **检测点**
 * \*\*\*\*[**pixiv**](https://pixiv.sirin.top) **p站镜像（取自**[**journey-ad**](https://github.com/journey-ad/pixiv-viewer)**）**
 * \*\*\*\*[**bb**](https://bb.sirin.top) **崩坏学园CG站**
+* \*\*\*\*[**in**](https://in.sirin.top/?/) **印度备用**
 
 **其他**
 
