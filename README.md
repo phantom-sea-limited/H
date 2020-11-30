@@ -34,12 +34,12 @@
 * \*\*\*\*[**zh** ](https://zh.sirin.top/) **国区CDN**
 * \*\*\*\*[**cdn**  ](https://CDN.SIRIN.TOP)**全球CDN**
 
-**ICU病房**
+### **ICU病房**
 
 * **东方ICU：**[**touhou-project.icu**](https://touhou-project.icu)\*\*\*\*
 * **崩崩ICU：**[**houkuai.icu**](https://houkuai.icu)\*\*\*\*
 
-**其他**
+### **其他**
 
 * [**http://sirin.rf.gd/**](http://sirin.rf.gd/) **备用文库**
 * \*\*\*\*[**http://fr.sirin.top/**](http://fr.sirin.top/) **法国备用**
