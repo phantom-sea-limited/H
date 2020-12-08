@@ -30,9 +30,10 @@
 * \*\*\*\*[**status**](https://status.sirin.top) **检测点**
 * \*\*\*\*[**pixiv**](https://pixiv.sirin.top) **p站镜像（取自**[**journey-ad**](https://github.com/journey-ad/pixiv-viewer)**）**
 * \*\*\*\*[**bb**](https://bb.sirin.top) **崩坏学园CG站   可去：**[**崩坏学园ICU**](https://houkuai.icu)\*\*\*\*
-* ~~\*\*\*\*~~[~~**in**~~](https://in.sirin.top/?/) ~~**印度备用**~~
+* [**cdn**  ](https://CDN.SIRIN.TOP)**全球CDN**
 * \*\*\*\*[**zh** ](https://zh.sirin.top/) **国区CDN**
-* \*\*\*\*[**cdn**  ](https://CDN.SIRIN.TOP)**全球CDN**
+
+\*\*\*\*
 
 ### **ICU病房**
 
@@ -41,8 +42,7 @@
 
 ### **其他**
 
-* [**http://sirin.rf.gd/**](http://sirin.rf.gd/) **备用文库**
-* \*\*\*\*[**http://fr.sirin.top/**](http://fr.sirin.top/) **法国备用**
+* 
 {% endhint %}
 
 \*\*\*\*
