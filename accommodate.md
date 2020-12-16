@@ -1,8 +1,10 @@
 # 公告板
 
+## **公告已迁移至**[**BBS.SIRIN.TOP**](https://BBS.SIRIN.TOP)\*\*\*\*
+
 ## **公告板** 2020.7.24
 
-{% hint style="danger" %}
+{% hint style="success" %}
 ## **文库核心错误！（微软的锅）预计修复时间一至二天！**
 {% endhint %}
 
