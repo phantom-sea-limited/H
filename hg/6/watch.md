@@ -15,7 +15,7 @@
 7. [救世主！蓬莱寺九霄参上！](http://mp.weixin.qq.com/s/35I9FKoxhELD4VbXVjne2g)
 8. [愚人戏话](http://mp.weixin.qq.com/s/dimSHl4fJ3G_nI0r6UO3CA)
 9. [从千羽学园开始说起](http://mp.weixin.qq.com/s/Phh21Ys4IfN-MaIenLxC2Q)
-10. [崩坏·律者·物种起源](http://mp.weixin.qq.com/s/lbq6tVV3t7urolz_19ZRwQ)
+10. [崩坏·律者·物种起源](http://mp.weixin.qq.com/s/lbq6tVV3t7urolz_19ZRwQ) 2017-4-15
 11. [来自于选择肢的调率](http://mp.weixin.qq.com/s/5M_zA_dKV8i7O22og5L08w)
 12. [看吧！那就是科技的圣堂！](http://mp.weixin.qq.com/s/6Um8GOpp0u9er70_2b-o0g)
 13. [狼啊，惶惶赫威！](http://mp.weixin.qq.com/s/OibAjPUa35ggVqfcLmu3iA)
@@ -23,7 +23,7 @@
 15. [使魔世界的奇奇妙妙](http://mp.weixin.qq.com/s/XSdnireH1DVTV8qiGJ4muA)
 16. [使魔大陆与板块学说](http://mp.weixin.qq.com/s/ttVNCOn6Q2y7_CUzSVh4ZQ)
 17. [理念的相斥乃斗争之源](http://mp.weixin.qq.com/s/6OlUoFlG5PGW03kwKbsZ0Q)
-18. [追求的正确姿势](http://mp.weixin.qq.com/s/YuCxkqZaSKQN8M7kiyWdzA) 
+18. [追求的正确姿势](http://mp.weixin.qq.com/s/YuCxkqZaSKQN8M7kiyWdzA) 2017-6-10
 19. [月光剧场序幕——艺术冲突](http://mp.weixin.qq.com/s?__biz=MzA3MzExMzkyMg==&mid=2659797421&idx=2&sn=eb8669d628f8d9d2771f422bbd671d84&chksm=8469e180b31e689611d4500afa9459028273e417542ae2d4110db7b0ff9b321be274f3450372&scene=21#wechat_redirect)
 20. [月光剧场序幕——深夜扰民](http://mp.weixin.qq.com/s?__biz=MzA3MzExMzkyMg==&mid=2659797501&idx=2&sn=9f28bd7afe36a4fa2da523aacfdb439d&chksm=8469e1d0b31e68c65cfefdb1d8c4719ed347c8c637bdb15494139f7008032ae23dbd1fa96d75&scene=21#wechat_redirect)
 21. [药药药，切克闹](http://mp.weixin.qq.com/s?__biz=MzA3MzExMzkyMg==&mid=2659797575&idx=1&sn=cf67111c0cf28fd880807fb572e6a036&chksm=8469e26ab31e6b7ca632a1d0524d849f0cef8250d88dbbae117ce860b48ab2de18ac3854cb15&scene=21#wechat_redirect)
@@ -44,4 +44,5 @@
 36. [追溯过去之变，迈向新生之门](http://mp.weixin.qq.com/s/XjdItWO9-YTTzzi6wFaPJw)
 37. [海中的岛屿 哪里是谁的殿堂呢](http://mp.weixin.qq.com/s/uQWnt-659nwUGQx22HGI_w)
 38. 罪之本愿[「杏的开发三问」](https://mp.weixin.qq.com/s/NOF1VE2j0OCm3Y2Hw4Jurg)
-39. 
+39. [执异见者的锋芒](https://mp.weixin.qq.com/s?src=11&timestamp=1608109704&ver=2770&signature=5sFpDs2R3zUu8Q4kwfVUoYz4SNVW-VL2kQtSqoEuc2R7xy3myUAenn30Q87jCqchZeRCE0huEeMVF-5C0pcF7qAhsHvw*ZFhdnLCN-pZfTeSTHTHQ0C3W2p*m2gacKKC&new=1) 2020-11-7
+
