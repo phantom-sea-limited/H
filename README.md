@@ -3,7 +3,7 @@
 ## 快速传送门
 
 {% hint style="success" %}
-### [**全球加速**](https://cdn.phantom-sea-limited.ltd/)  ****[**国区CDN**](HTTPS://ZH.SIRIN.TOP)\*\*\*\*
+### [**全球加速**](https://cdn.phantom-sea-limited.ltd/) ****
 {% endhint %}
 
 ### **APP最新传送门：**[**3.1.3**](https://cdn.jsdelivr.net/gh/Rcrwrate/H@3.1.3/app/%E5%B9%BB%E6%B5%B7%E5%AE%9E%E9%AA%8C%E5%AE%A4_3.1.3.apk)\*\*\*\*
@@ -26,10 +26,6 @@
 * \*\*\*\*[**status**](https://status.sirin.top) **检测点**
 * \*\*\*\*[**pixiv**](https://pixiv.sirin.top) **p站镜像（取自**[**journey-ad**](https://github.com/journey-ad/pixiv-viewer)**）**
 * \*\*\*\*[**bb**](https://bb.sirin.top) **崩坏学园CG站   可去：**[**崩坏学园ICU**](https://houkuai.icu)\*\*\*\*
-* [**cdn**  ](https://CDN.SIRIN.TOP)**全球CDN**
-* \*\*\*\*[**zh** ](https://zh.sirin.top/) **国区CDN**
-
-\*\*\*\*
 
 ### **ICU病房**
 
@@ -37,8 +33,6 @@
 * **崩崩ICU：**[**houkuai.icu**](https://houkuai.icu)\*\*\*\*
 
 ### **其他**
-
-* 
 {% endhint %}
 
 \*\*\*\*
