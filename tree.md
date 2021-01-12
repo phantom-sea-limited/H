@@ -6,10 +6,11 @@
 ### phantom-sea-limited.ltd（幻海实验室）
 
 * [**cdn**](https://cdn.phantom-sea-limited.ltd) **图书馆加速线**
-* \*\*\*\*[**s.nov**](https://s.nov.phantom-sea-limited.ltd) **图书馆上海**
 * \*\*\*\*[**app**](https://app.phantom-sea-limited.ltd/) **本站加速版**
 * \*\*\*\*[**bb**](https://bb.phantom-sea-limited.ltd/) **崩坏学园CG加速**
+{% endhint %}
 
+{% hint style="success" %}
 ### sirin.top（西琳小~~WO~~）
 
 * \*\*\*\*[**www**](https://www.sirin.top) **功能站**   
@@ -19,11 +20,15 @@
 * \*\*\*\*[**pixiv**](https://pixiv.sirin.top) **p站镜像（取自**[**journey-ad**](https://github.com/journey-ad/pixiv-viewer)**）**
 * \*\*\*\*[**bb**](https://bb.sirin.top) **崩坏学园CG站   可去：**[**崩坏学园ICU**](https://houkuai.icu)\*\*\*\*
 
-### **ICU病房**
+### **东方ICU：**
 
-* **东方ICU：**[**touhou-project.icu**](https://touhou-project.icu)\*\*\*\*
-* **崩崩ICU：**[**houkuai.icu**](https://houkuai.icu)\*\*\*\*
-
-### **其他**
+* \*\*\*\*[**@**](https://touhou-project.icu/) **车万要素收集中心**
+* \*\*\*\*[**COMIC** ](https://comic.touhou-project.icu/)**在线看漫画**
 {% endhint %}
+
+{% hint style="success" %}
+## **崩崩ICU：**[**houkuai.icu**](https://houkuai.icu)\*\*\*\*
+{% endhint %}
+
+### \*\*\*\*
 
