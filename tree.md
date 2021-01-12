@@ -19,6 +19,8 @@
 * \*\*\*\*[**status**](https://status.sirin.top) **检测点**
 * \*\*\*\*[**pixiv**](https://pixiv.sirin.top) **p站镜像（取自**[**journey-ad**](https://github.com/journey-ad/pixiv-viewer)**）**
 * \*\*\*\*[**bb**](https://bb.sirin.top) **崩坏学园CG站   可去：**[**崩坏学园ICU**](https://houkuai.icu)\*\*\*\*
+* \*\*\*\*[**ghs** ](https://ghs.sirin.top/api/)**几个api整合一下**
+* \*\*\*\*[**api-bb**](https://api-bb.sirin.top/api/) **崩崩和少前CG的api**
 {% endhint %}
 
 {% hint style="success" %}
@@ -29,7 +31,10 @@
 {% endhint %}
 
 {% hint style="success" %}
-## **崩崩ICU：**[**houkuai.icu**](https://houkuai.icu)\*\*\*\*
+## **崩崩ICU：**
+
+* \*\*\*\*[**CG** ](https://houkuai.icu/)\*\*\*\*
+* \*\*\*\*[**V**](https://houkuai.icu/) **各版本资料存档**
 {% endhint %}
 
 ### \*\*\*\*
