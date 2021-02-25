@@ -24,6 +24,12 @@
 {% endhint %}
 
 {% hint style="success" %}
+## **Lo-Li.tech：**
+
+\*\*\*\*[**干坏事（振声）**](https://lo-li.tech/)
+{% endhint %}
+
+{% hint style="success" %}
 ### **东方ICU：**
 
 * \*\*\*\*[**@**](https://touhou-project.icu/) **车万要素收集中心**
