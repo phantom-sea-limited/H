@@ -24,9 +24,9 @@
 {% endhint %}
 
 {% hint style="success" %}
-## **Lo-Li.tech：**
+## \*\*\*\*[**Lo-Li.asia**](https://lo-li.asia)**：**
 
-**爆炸了，静候修复**
+个人小说站
 {% endhint %}
 
 {% hint style="success" %}
