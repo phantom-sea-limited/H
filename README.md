@@ -16,6 +16,10 @@
 
 来源请填web/app
 
+**文库后援TG群：**[**点击加群**](https://t.me/loliconltd)\*\*\*\*
+
+#### 文库后援TG频道：[**点击加群**](https://t.me/loliconstudy)
+
 ![](.gitbook/assets/agg-zo-w-t1-yhq66o-cty.jpg)
 
 
