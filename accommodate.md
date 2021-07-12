@@ -10,7 +10,7 @@
 
 ### 2.如果缺少你想要的也可以在这反馈[**反馈传送门**](https://www.wjx.cn/jq/76859742.aspx)
 
-### 3.文库推出app，[**前往下载**](https://www.sirin.xyz/app.htm)
+### 3.文库推出app，[**前往下载**](www.sirin.top/app.htm)
 
 ## **文库整理计划**需要大家的帮助
 
