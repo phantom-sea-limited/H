@@ -22,7 +22,7 @@
 
 #### 文库后援TG频道：[**点击加群**](https://t.me/loliconstudy)
 
-![](.gitbook/assets/agg-zo-w-t1-yhq66o-cty.jpg)
+![Being on sea, sail; being on land, settle.](.gitbook/assets/agg-zo-w-t1-yhq66o-cty.jpg)
 
 
 
