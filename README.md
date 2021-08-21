@@ -5,6 +5,8 @@
 {% hint style="success" %}
 ### [**全球加速**](https://cdn.phantom-sea-limited.ltd/) **\(全部强制app访问，拒绝其他来源/ios请用自带浏览器访问\)**
 
+### [测试版本](https://cdn.dev.phantom-sea-limited.ltd/)：目前**已经**确定不会实装到默认版本
+
 ### ~~**PC访问方式：爆炸了，以后恢复**~~
 {% endhint %}
 
