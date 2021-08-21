@@ -24,12 +24,6 @@
 {% endhint %}
 
 {% hint style="success" %}
-## **Lo-Li.tech：**
-
-**爆炸了，静候修复**
-{% endhint %}
-
-{% hint style="success" %}
 ### **东方ICU：**
 
 * \*\*\*\*[**COMIC** ](https://comic.touhou-project.icu/)**在线看漫画**
