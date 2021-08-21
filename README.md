@@ -26,6 +26,8 @@ description: There is no garden without its weeds.
 
 #### 文库后援TG频道：[**点击加群**](https://t.me/loliconstudy)
 
+### 关注幻海实验室公众号，获取最新文库更新位置以及最近更新时间 ![](.gitbook/assets/_export1629549579001.jpg.png) 哎嘿的囊哒哟（一般不会有啥动静）
+
 ![Being on sea, sail; being on land, settle.](.gitbook/assets/agg-zo-w-t1-yhq66o-cty.jpg)
 
 
