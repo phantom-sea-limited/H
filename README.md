@@ -11,7 +11,7 @@ description: There is no garden without its weeds.
 
 ### [测试版本](https://cdn.dev.phantom-sea-limited.ltd/)：目前**已经**确定不会实装到默认版本
 
-### ~~**PC访问方式：爆炸了，以后恢复**~~
+### **任何对以上任意链接的访问均视为同意本站的**[**免责申明**](doc/mian-ze-tiao-li.md)**和隐私政策**
 {% endhint %}
 
 ### **APP最新传送门：**[**3.2**](https://cdn.jsdelivr.net/gh/Rcrwrate/H@3.2.0bete/app/%E5%B9%BB%E6%B5%B7%E5%AE%9E%E9%AA%8C%E5%AE%A4_3.2.0.apk)
@@ -30,11 +30,9 @@ description: There is no garden without its weeds.
 
 ![Being on sea, sail; being on land, settle.](.gitbook/assets/agg-zo-w-t1-yhq66o-cty.jpg)
 
-
-
 ## 技术支持
 
-Sometimes one pays most for the things one gets for nothing. 
+Sometimes one pays most for the things one gets for nothing.
 
 有时候一个人为不花钱得到的东西付出的代价最高。（爱因斯坦）
 

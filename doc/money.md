@@ -8,7 +8,7 @@
 
 #### **BTC:  bc1qmhpvl3vgd6jhxpwq8cyny0wv4qhlmx2taluev5**
 
-![](.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
-![](.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
