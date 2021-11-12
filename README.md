@@ -7,20 +7,22 @@ description: There is no garden without its weeds.
 ## 快速传送门
 
 {% hint style="success" %}
-### [**全球加速**](https://cdn.phantom-sea-limited.ltd/) **\(全部强制app访问，拒绝其他来源/ios请用自带浏览器访问\)**
+### [**全球加速**](https://cdn.phantom-sea-limited.ltd) **(全部强制app访问，拒绝其他来源/ios请用自带浏览器访问)**
 
-### [测试版本](https://cdn.dev.phantom-sea-limited.ltd/)：目前**已经**确定不会实装到默认版本
+### [测试版本](https://cdn.dev.phantom-sea-limited.ltd)：目前**已经**确定不会实装到默认版本
 
-### **任何对以上任意链接的访问均视为同意本站的**[**免责申明**](doc/mian-ze-tiao-li.md)**和**[**隐私政策**](doc/yin-si-zheng-ce.md)\*\*\*\*
+### **任何对以上任意链接的访问均视为同意本站的**[**免责申明**](doc/mian-ze-tiao-li.md)**和**[**隐私政策**](doc/yin-si-zheng-ce.md)****
 
 ### _**在访问前请确保您已满18岁或者父母已经同意访问，详见隐私政策**_
 {% endhint %}
 
-### **APP最新传送门：**[**3.2**](https://cdn.jsdelivr.net/gh/Rcrwrate/H@3.2.0bete/app/%E5%B9%BB%E6%B5%B7%E5%AE%9E%E9%AA%8C%E5%AE%A4_3.2.0.apk)
+### **APP最新传送门：**[**3.2**](https://cdn.jsdelivr.net/gh/Rcrwrate/H@3.2.0bete/app/%E5%B9%BB%E6%B5%B7%E5%AE%9E%E9%AA%8C%E5%AE%A4\_3.2.0.apk)
 
-{% page-ref page="tree.md" %}
+{% content-ref url="tree.md" %}
+[tree.md](tree.md)
+{% endcontent-ref %}
 
-**点击链接加入幻海实验室外围【幻海观光电梯】**：[https://jq.qq.com/?\_wv=1027&k=GPwsFCqC](https://jq.qq.com/?_wv=1027&k=GPwsFCqC)
+**点击链接加入幻海实验室外围【幻海观光电梯】**：[https://jq.qq.com/?\_wv=1027\&k=GPwsFCqC](https://jq.qq.com/?\_wv=1027\&k=GPwsFCqC)
 
 来源请填web/app
 
@@ -28,9 +30,9 @@ description: There is no garden without its weeds.
 
 #### 文库后援TG频道：[**点击加群**](https://t.me/loliconstudy)
 
-### 关注幻海实验室公众号，获取最新文库更新位置以及最近更新时间 ![](https://dl.phantom-sea-limited.ltd/Rcrwrate/H/master/.gitbook/assets/_export1629549579001.jpg.png) 哎嘿的囊哒哟（一般不会有啥动静）
+### 关注幻海实验室公众号，获取最新文库更新位置以及最近更新时间 ![](https://dl.phantom-sea-limited.ltd/Rcrwrate/H/master/.gitbook/assets/\_export1629549579001.jpg.png) 哎嘿的囊哒哟（一般不会有啥动静）
 
-![Being on sea, sail; being on land, settle.](.gitbook/assets/agg-zo-w-t1-yhq66o-cty.jpg)
+![Being on sea, sail; being on land, settle.](.gitbook/assets/AGG\(ZO\`]W\(T1@YHQ66O@CTY.jpg)
 
 ## 技术支持
 
@@ -38,7 +40,5 @@ Sometimes one pays most for the things one gets for nothing.
 
 有时候一个人为不花钱得到的东西付出的代价最高。（爱因斯坦）
 
-| [**苏ICP备20023190号**](http://beian.miit.gov.cn/) |
-| :---: |
-
-
+| [**苏ICP备20023190号**](http://beian.miit.gov.cn) |
+| :--------------------------------------------: |
