@@ -7,9 +7,11 @@ description: There is no garden without its weeds.
 ## 快速传送门
 
 {% hint style="success" %}
-### [**全球加速**](https://cdn.phantom-sea-limited.ltd) **(全部强制app访问，拒绝其他来源/ios请用自带浏览器访问)**
+### [**全球加速**](https://cdn.phantom-sea-limited.ltd/) **(全部强制app访问，拒绝其他来源/ios请用自带浏览器访问)**
 
-### [测试版本](https://cdn.dev.phantom-sea-limited.ltd)：目前**已经**确定不会实装到默认版本
+### [测试版本](https://cdn.dev.phantom-sea-limited.ltd/)：目前**已经**确定不会实装到默认版本
+
+### [API ](https://api.phantom-sea-limited.ltd/release/API)(提供自助搜索服务
 
 ### **任何对以上任意链接的访问均视为同意本站的**[**免责申明**](doc/mian-ze-tiao-li.md)**和**[**隐私政策**](doc/yin-si-zheng-ce.md)****
 
@@ -40,5 +42,5 @@ Sometimes one pays most for the things one gets for nothing.
 
 有时候一个人为不花钱得到的东西付出的代价最高。（爱因斯坦）
 
-| [**苏ICP备20023190号**](http://beian.miit.gov.cn) |
-| :--------------------------------------------: |
+| [**苏ICP备20023190号**](http://beian.miit.gov.cn/) |
+| :---------------------------------------------: |
