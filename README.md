@@ -11,7 +11,7 @@ description: There is no garden without its weeds.
 
 ### [测试版本](https://cdn.dev.phantom-sea-limited.ltd/)：目前**已经**确定不会实装到默认版本
 
-### [API服务](https://api.phantom-sea-limited.ltd/release/API)提供自助搜索服务和支持API调用
+### [API服务](https://api.phantom-sea-limited.ltd/release/API)：提供自助搜索服务和支持API调用
 
 ### **任何对以上任意链接的访问均视为同意本站的**[**免责申明**](doc/mian-ze-tiao-li.md)**和**[**隐私政策**](doc/yin-si-zheng-ce.md)****
 
