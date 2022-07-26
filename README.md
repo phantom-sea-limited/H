@@ -9,7 +9,7 @@ description: There is no garden without its weeds.
 {% hint style="success" %}
 ### [**全球加速**](https://cdn.phantom-sea-limited.ltd/) **(全部强制app访问，拒绝其他来源/ios请用自带浏览器访问)**
 
-### [测试版本](https://cdn.dev.phantom-sea-limited.ltd/)：目前**已经**确定不会实装到默认版本
+### [测试版本](https://dev.phantom-sea-limited.ltd)：目前**已经**确定不会实装到默认版本
 
 ### [API服务](https://api.phantom-sea-limited.ltd/release/API)：提供自助搜索服务和支持API调用
 
