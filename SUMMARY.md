@@ -3,7 +3,7 @@
 * [树状图设计者](README.md)
 * [完整目录树](tree.md)
 * [文档](doc/README.md)
-  * [免责条例](doc/mian-ze-tiao-li.md)
+  * [用户协议](doc/mian-ze-tiao-li.md)
   * [隐私政策](doc/yin-si-zheng-ce.md)
   * [周年庆](doc/anniversary/README.md)
     * [幻海鼠书祭](doc/anniversary/huan-hai-shu-shu-ji.md)
@@ -16,4 +16,3 @@
   * [赞助](doc/money.md)
 * [公告板](accommodate.md)
 * [help](help.md)
-
