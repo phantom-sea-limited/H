@@ -40,5 +40,3 @@ Sometimes one pays most for the things one gets for nothing.
 
 有时候一个人为不花钱得到的东西付出的代价最高。（爱因斯坦）
 
-| [**苏ICP备20023190号**](http://beian.miit.gov.cn/) |
-| :---------------------------------------------: |
