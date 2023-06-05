@@ -13,7 +13,7 @@ description: There is no garden without its weeds.
 
 #### [API服务](https://api.phantom-sea-limited.ltd/release/API)：提供自助搜索服务和支持API调用
 
-#### **任何对以上任意链接的访问均视为同意本站的**[**免责申明**](doc/mian-ze-tiao-li.md)**和**[**隐私政策**](doc/yin-si-zheng-ce.md)\*\*\*\*
+#### **任何对以上任意链接的访问均视为同意本站的**[**免责申明**](doc/mian-ze-tiao-li.md)**和**[**隐私政策**](doc/yin-si-zheng-ce.md)
 
 #### _**在访问前请确保您已满18岁或者父母已经同意访问，详见隐私政策**_
 {% endhint %}
@@ -24,13 +24,9 @@ description: There is no garden without its weeds.
 [tree.md](tree.md)
 {% endcontent-ref %}
 
-**点击链接加入幻海实验室外围【幻海观光电梯】**：[https://jq.qq.com/?\_wv=1027\&k=GPwsFCqC](https://jq.qq.com/?\_wv=1027\&k=GPwsFCqC)
+**点击链接加入幻海实验室外围【幻海培训部】**：[https://jq.qq.com/?\_wv=1027\&k=GPwsFCqC](https://jq.qq.com/?\_wv=1027\&k=GPwsFCqC)
 
 来源请填web/app
-
-**文库后援TG群：**[**点击加群**](https://t.me/loliconltd)
-
-#### 文库后援TG频道：[**点击加群**](https://t.me/loliconstudy)
 
 ![Being on sea, sail; being on land, settle.](.gitbook/assets/agg-zo-w-t1-yhq66o-cty.jpg)
 
