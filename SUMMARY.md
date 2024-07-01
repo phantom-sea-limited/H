@@ -11,8 +11,5 @@
     * [七月报告](doc/report/qi-yue-bao-gao.md)
     * [六月报告](doc/report/liu-yue-bao-gao.md)
     * [五月报告](doc/report/5.md)
-  * [文库更新日志](doc/data/README.md)
-    * [2020.6.23](doc/data/2020.5.15.md)
-  * [赞助](doc/money.md)
 * [公告板](accommodate.md)
 * [help](help.md)

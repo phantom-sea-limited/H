@@ -7,13 +7,7 @@ description: There is no garden without its weeds.
 ## 快速传送门
 
 {% hint style="success" %}
-#### [**全球加速**](https://cdn.phantom-sea-limited.ltd/) **(全部强制app访问，拒绝其他来源/ios请用自带浏览器访问)**
-
-#### [**海外服务**](https://edn.phantom-sea-limited.ltd/)**（测试）**
-
-#### [测试版本](https://dev.phantom-sea-limited.ltd)：目前**已经**确定不会实装到默认版本
-
-#### [API服务](https://api.phantom-sea-limited.ltd/release/API)：提供自助搜索服务和支持API调用
+#### **啥也没有**
 
 #### **任何对以上任意链接的访问均视为同意本站的**[**免责申明**](doc/mian-ze-tiao-li.md)**和**[**隐私政策**](doc/yin-si-zheng-ce.md)
 
